@@ -1,8 +1,11 @@
 ---
-title: "Bachelor in Computer Science and Engineering"
-collection: education
-permalink: /education/bachelor/
-date: 2020-02-01
+layout: single
+title: "Bachelor's Degree"
+date: 2024-12-15
+category: education
+author_profile: true
+share: true
+comments: true
 ---
 
 # Education
