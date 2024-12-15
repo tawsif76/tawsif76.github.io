@@ -1,3 +1,10 @@
+---
+title: "Education"
+layout: single
+author_profile: true
+permalink: /education/
+---
+
 # Education
 [Chittagong University of Engineering and Technology (CUET)](https://www.cuet.ac.bd/)  
 **Bachelors in Computer Science and Engineering**  
