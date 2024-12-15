@@ -1,5 +1,5 @@
 ---
-permalink: /education/bachelor/ 
+permalink: /education/ 
 ---
 
 [Chittagong University of Engineering and Technology (CUET)](https://www.cuet.ac.bd/)  
