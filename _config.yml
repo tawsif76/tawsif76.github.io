@@ -214,7 +214,7 @@ kramdown:
 collections:
   education:
     output: true
-    permalink: /education/:path/
+    permalink: /:education/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
