@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Education"
+title: "education"
 date: 2024-12-15
 category: education
 author_profile: true
