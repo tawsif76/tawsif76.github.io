@@ -8,13 +8,9 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+# Education
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Chittagong University of Engineering and Technology (CUET)](https://www.cuet.ac.bd/)  
+**Bachelors in Computer Science and Engineering**  
+**Study Period:** February 2020 - June 2025  
+**Advisor:** Prof. Moshiul Hoque, Mir Md. Saki Kowsar
