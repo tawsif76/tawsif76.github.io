@@ -1,7 +1,7 @@
 ---
 title: "Education"
 layout: page
-permalink: /education/
+permalink: /education/bachelor
 ---
 
 # Education
