@@ -6,6 +6,7 @@ category: education
 author_profile: true
 share: true
 comments: true
+permalink: /education/bachelor/ 
 ---
 
 # Education
