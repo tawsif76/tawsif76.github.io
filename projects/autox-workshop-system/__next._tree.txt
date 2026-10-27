@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/13jkg2q15e0j0.css","style"]
+:HL["/_next/static/media/660acf689794c992-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/edb99fec956915f8-s.p.32sris142tqlb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"autox-workshop-system","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"projects","h":131136,"c":"$Q2"}]]
+0:{"b":"J9vTKVGstRQfQKPKK0rIw","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
