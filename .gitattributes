@@ -1,0 +1,3 @@
+# Generated RSC payloads contain byte-counted strings. Preserve exported bytes,
+# including mixed line endings inside rendered code blocks.
+* -text
